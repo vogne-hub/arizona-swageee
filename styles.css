@@ -1,1 +1,11 @@
-
+body{
+    background-color:#bceafd;
+    font-family:Verdana;
+}
+h1{
+    color:blue;
+   text-align: center;}
+   p{
+    color:green;
+font-size: 20px;
+   }
