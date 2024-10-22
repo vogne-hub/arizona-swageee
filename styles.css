@@ -9,3 +9,12 @@ h1{
     color:green;
 font-size: 20px;
    }
+.box {
+    height: 434px;
+    width: 262px;
+    float: left;
+    text-align: center;
+   }
+#info1 {background-color: darkorange;}
+#info2 {background-color: #c4fdbc;}
+#info3 {background-color: blueviolet;}
